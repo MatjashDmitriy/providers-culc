@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/providers-culc/static/css/main.0a92d404.css",
+    "main.js": "/providers-culc/static/js/main.6e889fa4.js",
+    "static/js/787.7136eebf.chunk.js": "/providers-culc/static/js/787.7136eebf.chunk.js",
+    "index.html": "/providers-culc/index.html",
+    "main.0a92d404.css.map": "/providers-culc/static/css/main.0a92d404.css.map",
+    "main.6e889fa4.js.map": "/providers-culc/static/js/main.6e889fa4.js.map",
+    "787.7136eebf.chunk.js.map": "/providers-culc/static/js/787.7136eebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a92d404.css",
+    "static/js/main.6e889fa4.js"
+  ]
+}
